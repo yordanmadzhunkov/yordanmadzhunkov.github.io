@@ -42,3 +42,8 @@ li.menu-item-active {
 li.menu-item:hover {
     background-color: #04AA6D;
 }
+
+.coin-ico {
+    width: 32px;
+    height: 32px;
+}
